@@ -1,2 +1,2 @@
-# k-means
-EPUSP - (PCS5024) Statistical Learning: K-Means Clustering Algorithm
+# Clustering
+EPUSP - (PCS5024) Statistical Learning: K-Means & Hierarchical Clustering Algorithms
